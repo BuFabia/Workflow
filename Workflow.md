@@ -10,4 +10,4 @@
 
 # Bild und Link
 
-![githubWorkflow](githubWorkflow.png)
+![githubWorkflow](githubWorkflow.PNG)
