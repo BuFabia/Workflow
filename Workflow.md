@@ -16,4 +16,5 @@
 ![githubWorkflow](githubWorkflow.PNG)
 
 * ACHTUNG: Endung JPG oder PNG muss gross sein, damit es auf github angezeigt werden kann
-
+* ACHTUNG: wenn eine Datei bei Stage Changes unerwünscht ist, kann man bei Commit, Unstage from Commit, den Vorgang rückgängig machen
+* ACHTUNG: bei Bildern dürfen im Syntax keine Leerzeichen stehen
