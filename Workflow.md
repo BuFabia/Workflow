@@ -21,3 +21,7 @@
 * ACHTUNG: bei Bildern dürfen im Syntax keine Leerzeichen stehen
 * ACHTUNG bei HTML: damit Umlaute angezeigt werden am besten vor dem BODY "meta charset="UTF-8" einfügen
 * für weitere Befehle bei HTML auf selfhtml.org
+* für Bildunterschrift, figure und figcaption einfügen 
+* für Bilder, die lokal gespeichert sind, mit img(Name.jpg) in Datei einfügen
+* wenn Bild im Unterordner gespeichert ist, dann img(Ordnername/Name.jpg) 
+* am besten Kleinbuchstaben, Zahlen und Unterstriche verwenden
