@@ -20,3 +20,4 @@
 * ACHTUNG: wenn eine Datei bei Stage Changes unerwünscht ist, kann man bei Commit, Unstage from Commit, den Vorgang rückgängig machen
 * ACHTUNG: bei Bildern dürfen im Syntax keine Leerzeichen stehen
 * ACHTUNG bei HTML: damit Umlaute angezeigt werden am besten vor dem BODY "meta charset="UTF-8" einfügen
+* für weitere Befehle bei HTML auf selfhtml.org
